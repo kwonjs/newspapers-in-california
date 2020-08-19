@@ -1,6 +1,6 @@
 # Distribution of Registered* Newspapers** in California by City/Neighborhood
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Distribution_News_CA_City/final_1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Distribution_News_CA_City/final_1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '1000'></iframe> 
 
 _Note: "Registered" means all current news sources documented in the Library of Congress's "Chronicling America." "Newspapers" are broadly defined to include all publications in print/online that occur daily/monthly/other frequency. Some publications in less-populated areas were lumped with more-populated locations nearby, so the location data of news publications in this map may  not be entirely accurate._ 
 

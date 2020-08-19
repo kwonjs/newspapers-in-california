@@ -8,6 +8,10 @@ _Note: "Registered" means all current news sources documented in the Library of 
 
 The data supporting this visualization is scraped from the Library of Congress's "Chronicling America" [database](https://chroniclingamerica.loc.gov/search/titles/results/?state=California&county=&city=&year1=1690&year2=2020&terms=&frequency=&language=&ethnicity=&labor=&material_type=&lccn=&rows=9996) and cleaned using Google Sheets.
 
+### Additional tools used:
+
+* [City-to-County Finder](http://statsamerica.org/CityCountyFinder/Default.aspx) (California-specific)
+
 ### Future data analyses:
 
 * Showing the distribution of currently registered newspapers by **county**

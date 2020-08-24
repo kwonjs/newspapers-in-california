@@ -3,7 +3,7 @@
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA_15982398810650/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '1000'></iframe>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link" width = '1000' height = '1000'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '1000'></iframe> 
 
 
 _Note: "Registered" means all current news sources documented in the Library of Congress's "Chronicling America." "Newspapers" are broadly defined to include **all** publications in print/online that occur daily/monthly/other frequency. Some newspapers (~10) are not included from the scraped data due to ambiguity in location or lack of location (because they might be online-only). Some publications in less-populated areas were lumped with more-populated locations nearby, so the location data of news publications in this map may  not be entirely accurate._ 

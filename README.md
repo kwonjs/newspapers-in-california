@@ -10,13 +10,13 @@ The data supporting this visualization is scraped from the Library of Congress's
 
 #### By city/neighborhood
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA_15982398810650/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe>
 
 #### By county
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA_15982398810650/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe> 
 
-<iframe width="1054" height="504" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzJw4WGnYGZIVPcaTobpwAIVdne7fUNpGSuDqQXQ2QrnLoj2SnhZ89JbE6EEpzYZf4MGT7GT7WBxYJ/pubchart?oid=1726472795&amp;format=interactive"></iframe>
+<iframe width="941" height="450" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzJw4WGnYGZIVPcaTobpwAIVdne7fUNpGSuDqQXQ2QrnLoj2SnhZ89JbE6EEpzYZf4MGT7GT7WBxYJ/pubchart?oid=1726472795&amp;format=interactive"></iframe>
 
 ### Additional tool(s) used in this project:
 

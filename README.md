@@ -10,22 +10,22 @@ The data supporting this visualization is scraped from the Library of Congress's
 
 #### By city/neighborhood
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA_15982398810650/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe> 
 
 #### By county
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA_15982398810650/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe>
 
 <iframe width="912" height="504" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzJw4WGnYGZIVPcaTobpwAIVdne7fUNpGSuDqQXQ2QrnLoj2SnhZ89JbE6EEpzYZf4MGT7GT7WBxYJ/pubchart?oid=1726472795&amp;format=interactive"></iframe>
 
 ### Additional tool(s) used in this project:
 
 * [City-to-County Finder](http://statsamerica.org/CityCountyFinder/Default.aspx) (California-specific, used for building the county-level map!)
-* [Embedding Tableau visualizations](https://san-wang.github.io/blog/Embed-Tableau-dashboard-into-github-page-post/) in github markdown pages
+* [How to embed Tableau visualizations](https://san-wang.github.io/blog/Embed-Tableau-dashboard-into-github-page-post/) in github markdown pages
 
 ### Limitations:
 
-* In conducting this project, I had to make many assumptions: the database was comprehensive, most of the data in the database was up-to-date and accurate (i.e. newspapers/news outlets labeled as "current" were actually still operating), and that the headquarter locations of these outlets were accurate.
+* In conducting this project, I had to make many assumptions: the database was comprehensive, most of the data in the database was up-to-date and accurate (i.e. newspapers/news outlets labeled as "current" were actually still operating), and that the headquarter locations of these outlets were accurate. (_Edit: As of August 2020, this database has expanded from 9996 registered newspapers to 10,000+, and these visualizations don't take into account these added news outlets that might still be currently operating!_)
 * News outlets/newspapers that were completely online and thus had no "city location" or physical headquarters weren't able to be visualized. There also were some news outlets that bordered California and Nevada (i.e. "North Lake Tahoe Bonanza" in Incline Village that weren't plotted). 
 * Tableau failed to recognize some census-designated places where local news outlets/papers were located, so I had to label these papers instead at the nearest town over. 
 * From a glance, Los Angeles looks like it has an overabundance of newspapers. Most of the newspapers within that bubble in the City/Neighborhood visualization, however, were local to specific neighborhoods within L.A. (i.e. City of Industry, Van Nuys, Brentwood, Woodland Hills etc.) but were grouped under "Los Angeles" because Tableau didn't have the specificity to recognize individual neighborhoods within L.A. 
@@ -37,6 +37,4 @@ The data supporting this visualization is scraped from the Library of Congress's
 * Answering the questions "Where and why are there newspaper dearths in certain locations in California?"
 * Answering the question "Which entities own the newspapers in California?"
 
-### The dataset used to create the above visualizations
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzJw4WGnYGZIVPcaTobpwAIVdne7fUNpGSuDqQXQ2QrnLoj2SnhZ89JbE6EEpzYZf4MGT7GT7WBxYJ/pubhtml?gid=1348884363&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+##### [Click here to see the dataset](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzJw4WGnYGZIVPcaTobpwAIVdne7fUNpGSuDqQXQ2QrnLoj2SnhZ89JbE6EEpzYZf4MGT7GT7WBxYJ/pubhtml?gid=1348884363&single=true) used to create the above visualizations

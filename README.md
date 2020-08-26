@@ -4,8 +4,6 @@
 
 I stumbled upon the Library of Congress's "Chronicling America" database of all the newsppaers that had been recorded since 1690 and wanted to see if there was a way I could scrape the data and visualize the distribution of recorded newspapers still operating today (labeled as "current" in the database) in California by county and by city/neighborhood. I wanted to see if there were certain geographic areas within California where there was a dearth of local daily or monthly news, online or in print. 
 
-_Note: In conducting this project, I had to assume some things: the database was comprehensive, most of the data in the database was up-to-date and correct (i.e. that the newspapers/news outlets labeled as "current" were still operating), and that the headquarter locations of these outlets were accurate._
-
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA_15982398810650/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/NumberofRegisteredNewspapersperCountyinCA/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '900'></iframe> 
@@ -20,8 +18,9 @@ The data supporting this visualization is scraped from the Library of Congress's
 
 ### Limitations:
 
+* In conducting this project, I had to make many assumptions: the database was comprehensive, most of the data in the database was up-to-date and accurate (i.e. newspapers/news outlets labeled as "current" were actually still operating), and that the headquarter locations of these outlets were accurate.
 * Tableau failed to recognize some census-designated places where local news outlets/papers were located, so I had to label these papers instead at the nearest town over. 
-* From a glance, Los Angeles looks like it has an overabundance of newspapers. Most of the newspapers within that bubble in the City/Neighborhood visualization, however, were local to specific neighborhoods within L.A. (i.e. City of Industry, Van Nuys, Brentwood, Woodland Hills etc.) but were grouped because Tableau didn't have the specificity to recognize individual neighborhoods within L.A. 
+* From a glance, Los Angeles looks like it has an overabundance of newspapers. Most of the newspapers within that bubble in the City/Neighborhood visualization, however, were local to specific neighborhoods within L.A. (i.e. City of Industry, Van Nuys, Brentwood, Woodland Hills etc.) but were grouped under "Los Angeles" because Tableau didn't have the specificity to recognize individual neighborhoods within L.A. 
 
 ### Ideas for future data analyses:
 

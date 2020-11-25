@@ -2,7 +2,7 @@
 
 ### Motivations behind this mini-project
 
-I stumbled upon the Library of Congress's "Chronicling America" database of all the newsppaers that had been recorded since 1690 and wanted to see if there was a way I could scrape the data and visualize the distribution of recorded newspapers still operating today (labeled as "current" in the database) in California by county and by city/neighborhood. I wanted to see if there were certain geographic areas within California where there was a dearth of local daily or monthly news, online or in print. 
+I stumbled upon the Library of Congress's "Chronicling America" database of all the newspapers that had been recorded since 1690 and wanted to see if there was a way I could scrape the data and visualize the distribution of recorded newspapers still operating today (labeled as "current" in the database) in California by county and by city/neighborhood. I wanted to see if there were certain geographic areas within California where there was a dearth of local daily or monthly news, online or in print. 
 
 _Note: "Registered" means all current news sources documented in the Library of Congress's "Chronicling America." "Newspapers" are broadly defined to include **all** publications in print/online that occur daily/monthly/other frequency. Some newspapers (~10) are not included from the scraped data due to ambiguity in location or lack of location (because they might be online-only). Some publications in less-populated areas were lumped with more-populated locations nearby, so the location data of news publications in this map may  not be entirely accurate._ 
 
